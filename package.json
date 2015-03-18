@@ -1,6 +1,6 @@
 {
   "name": "node-firefox-uninstall-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Uninstall an app from a Firefox runtime",
   "main": "index.js",
   "scripts": {
